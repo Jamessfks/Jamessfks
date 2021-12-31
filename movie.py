@@ -7,7 +7,7 @@ import csv
 
 
 
-#Proxy ip
+#Proxy ip (you can change if you want)
 proxies = {
     "https://":"https://113.28.90.67:9480"
 }
